@@ -1,4 +1,4 @@
-# Sistema de Reserva de Emprestimos de Equipamento e Aparelhos Audios Visuais
+# Sistema de Reserva de Empréstimo de Equipamentos e Aparelhos Audios Visuais
 
 Repositorio para desenvolvimento do sistema de reservas.
 Projeto acadêmico com intuito de por em prática ao que foi passado para os alunos através de videos-aulas e livros-texto. 
